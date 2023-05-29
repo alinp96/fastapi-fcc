@@ -1,4 +1,4 @@
-# Project Name
+# FastAPI & Docker
 
 The project is an API written in FASTAPI that provides various functionalities such as authentication, posts, user creation, and voting. It utilizes SQLAlchemy for interacting with the database and implements OAuth2 with bearer token for authentication. The project also supports Docker Compose for easy deployment. Additionally, Swagger UI is implemented, and it can be accessed at the "/docs" path.
 
